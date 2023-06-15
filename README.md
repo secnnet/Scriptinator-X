@@ -2,14 +2,6 @@
 
 Welcome to Scriptinator-X, a collection of handy scripts for various system operations. This repository provides a set of tools to gather system information, manipulate firewall settings, and encrypt files.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Scripts](#scripts)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Scriptinator-X is designed to simplify common system tasks and automate processes. Whether you're a system administrator, developer, or simply curious about your system, these scripts will come in handy.
