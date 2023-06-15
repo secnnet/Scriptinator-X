@@ -28,12 +28,11 @@ To use the scripts in this repository, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/TechOps-Toolbox.git
+git clone https://github.com/secnnet/Scriptinator-X.git 
 
 2. Navigate to the cloned directory:
 
 cd TechOps-Toolbox
-
 
 3. Choose the script you want to run and follow the instructions within the script file.
 
