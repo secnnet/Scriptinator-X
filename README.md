@@ -46,7 +46,4 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 ---
 
-We hope Scriptinator-X proves to be a valuable resource for your system management tasks. If you have any questions or encounter any issues, please feel free to open an issue or reach out to us.
-
-Happy scripting!
-
+I hope Scriptinator-X proves to be a valuable resource for your system management tasks. 
