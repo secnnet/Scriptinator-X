@@ -28,6 +28,8 @@ To use the scripts in this repository, follow these steps:
 
 3. Choose the script you want to run and follow the instructions within the script file.
 
+![A](https://github.com/secnnet/Scriptinator-X/assets/17622687/4a43f83c-25b7-4f27-b813-4972226bfbaa)
+
 ## Contributing
 
 Contributions are welcome! If you have any improvements, bug fixes, or new features to add, please feel free to submit a pull request. Make sure to follow the existing coding style and provide clear commit messages.
